@@ -1,0 +1,19 @@
+.planets-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.image {
+  width: 50%;
+}
+
+.name-head {
+  color: #f8fafc;
+}
+
+.para {
+  color: #f1f5f9;
+}
